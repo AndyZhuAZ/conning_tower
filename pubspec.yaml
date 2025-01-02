@@ -49,7 +49,7 @@ dependencies:
   package_info_plus: ^8.0.2
   auto_size_text: ^3.0.0
   validators: ^3.0.0
-  font_awesome_flutter: ^10.7.0
+  font_awesome_flutter: ^10.8.0
   circular_menu:
     path: plugins/circular_menu
   modal_bottom_sheet: ^3.0.0-pre
