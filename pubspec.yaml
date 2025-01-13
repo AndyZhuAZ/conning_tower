@@ -73,7 +73,7 @@ dependencies:
   percent_indicator: ^4.2.3
   carousel_slider: ^5.0.0
   firebase_core: ^3.5.0
-  firebase_crashlytics: ^4.1.2
+  firebase_crashlytics: ^4.3.0
   pull_down_button:
     git:
       url: https://github.com/andychucs/pull_down_button.git
