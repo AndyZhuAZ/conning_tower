@@ -73,7 +73,7 @@ jobs:
         run: mv build/app/outputs/flutter-apk/app-release.apk build/app/outputs/flutter-apk/ConningTower-${{ steps.version.outputs.version }}-release.apk
 
       - name: Create Release
-        uses: ncipollo/release-action@v1.14.0
+        uses: ncipollo/release-action@v1.15.0
         with:
           allowUpdates: true
           artifacts: "build/app/outputs/flutter-apk/*release.apk,build/ios/ipa/*.ipa"
